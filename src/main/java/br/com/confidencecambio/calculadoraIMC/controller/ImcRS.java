@@ -11,10 +11,10 @@ import java.text.DecimalFormat;
 
 @RestController
 @RequestMapping("/imc")
-public class ImcControllerRS {
+public class ImcRS {
     private IPessoa pessoa;
 
-    private ImcControllerRS(IPessoa pessoa)
+    private ImcRS(IPessoa pessoa)
     {
         this.pessoa = pessoa;
     }
