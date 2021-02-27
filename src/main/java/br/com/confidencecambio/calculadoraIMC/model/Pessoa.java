@@ -24,6 +24,7 @@ public class Pessoa {
     }
 
     public double calcularIMC(double Peso, double Altura)
-    {imc = Peso/Math.pow(Altura,2);
-    return imc; }
+    {
+    return imc = Peso/Math.pow(Altura,2);
+    }
 }
