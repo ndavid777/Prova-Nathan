@@ -1,10 +1,10 @@
-package br.com.confidencecambio.calculadoraIMC.service;
+package br.com.confidencecambio.provanathan.service;
 
 
-import br.com.confidencecambio.calculadoraIMC.model.Cliente;
-import br.com.confidencecambio.calculadoraIMC.model.EntidadeComNome;
-import br.com.confidencecambio.calculadoraIMC.model.Gerente;
-import br.com.confidencecambio.calculadoraIMC.model.Robo;
+import br.com.confidencecambio.provanathan.model.Cliente;
+import br.com.confidencecambio.provanathan.model.EntidadeComNome;
+import br.com.confidencecambio.provanathan.model.Gerente;
+import br.com.confidencecambio.provanathan.model.Robo;
 import org.junit.Assert;
 import org.junit.Test;
 

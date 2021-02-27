@@ -1,9 +1,9 @@
-package br.com.confidencecambio.calculadoraIMC.model;
+package br.com.confidencecambio.provanathan.model;
 
 
-public class Robo extends EntidadeComNome implements IValidaNome{
+public class Cliente extends EntidadeComNome implements IValidaNome{
 
-    public Robo(String nome) {
+    public Cliente(String nome) {
         super(nome.trim());
     }
 

@@ -1,13 +1,13 @@
-package br.com.confidencecambio.calculadoraIMC;
+package br.com.confidencecambio.provanathan;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JavaBasicoApplication {
+public class ProvaNathanApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(JavaBasicoApplication.class, args);
+		SpringApplication.run(ProvaNathanApplication.class, args);
 	}
 
 }

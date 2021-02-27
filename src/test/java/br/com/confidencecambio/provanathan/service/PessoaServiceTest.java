@@ -1,7 +1,7 @@
-package br.com.confidencecambio.calculadoraIMC.service;
+package br.com.confidencecambio.provanathan.service;
 
 
-import br.com.confidencecambio.calculadoraIMC.model.Pessoa;
+import br.com.confidencecambio.provanathan.model.Pessoa;
 import org.junit.Assert;
 import org.junit.Test;
 

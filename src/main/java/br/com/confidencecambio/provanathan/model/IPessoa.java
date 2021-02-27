@@ -1,4 +1,4 @@
-package br.com.confidencecambio.calculadoraIMC.model;
+package br.com.confidencecambio.provanathan.model;
 
 public interface IPessoa {
 

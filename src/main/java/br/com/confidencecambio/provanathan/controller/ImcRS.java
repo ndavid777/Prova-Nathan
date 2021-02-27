@@ -1,8 +1,7 @@
-package br.com.confidencecambio.calculadoraIMC.controller;
+package br.com.confidencecambio.provanathan.controller;
 
-import br.com.confidencecambio.calculadoraIMC.model.Cliente;
-import br.com.confidencecambio.calculadoraIMC.model.IPessoa;
-import br.com.confidencecambio.calculadoraIMC.model.Pessoa;
+import br.com.confidencecambio.provanathan.model.IPessoa;
+import br.com.confidencecambio.provanathan.model.Pessoa;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.RequestBody;
