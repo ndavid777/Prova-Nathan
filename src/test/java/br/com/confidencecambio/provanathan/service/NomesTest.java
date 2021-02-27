@@ -67,6 +67,7 @@ public class NomesTest {
         Assert.assertEquals("Garp", robo.pegarUltimoNome());
     }
 
+    @Test
     public void nomeComLetrasMaiusculasTest()
     {
         var jojo = new Gerente("Joseph Joestar");
