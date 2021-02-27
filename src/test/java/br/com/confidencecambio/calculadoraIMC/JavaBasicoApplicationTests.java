@@ -1,4 +1,4 @@
-package br.com.confidencecambio.javabasico;
+package br.com.confidencecambio.calculadoraIMC;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

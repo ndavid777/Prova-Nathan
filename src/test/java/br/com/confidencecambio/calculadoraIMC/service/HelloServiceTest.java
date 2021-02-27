@@ -1,4 +1,4 @@
-package br.com.confidencecambio.javabasico.service;
+package br.com.confidencecambio.calculadoraIMC.service;
 
 
 import org.junit.Before;

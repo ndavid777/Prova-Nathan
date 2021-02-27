@@ -1,4 +1,4 @@
-package br.com.confidencecambio.javabasico;
+package br.com.confidencecambio.calculadoraIMC;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
