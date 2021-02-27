@@ -19,7 +19,7 @@ public class PessoaServiceTest {
         when(pessoa.getPeso()).thenReturn(75.0);
         when(pessoa.getAltura()).thenReturn(1.68);
         when(pessoaService.validaPessoa(pessoa)).thenCallRealMethod();
-        Assert.assertTrue(pessoaService.validaPessoa(pessoa));
+    Assert.assertTrue(pessoaService.validaPessoa(pessoa));
 
     }
 

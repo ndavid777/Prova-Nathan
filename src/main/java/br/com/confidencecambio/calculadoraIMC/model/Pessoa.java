@@ -8,11 +8,16 @@ import org.springframework.stereotype.Repository;
 public class Pessoa {
 
     @JsonProperty("altura")
-
     private double altura;
     @JsonProperty("peso")
     private double peso;
+/*
+    public Pessoa(double altura, double peso)
+    { this.altura = altura;
+    this.peso = peso;}
 
+
+ */
     private double imc;
 
     public double getPeso() {
@@ -23,8 +28,8 @@ public class Pessoa {
         return altura;
     }
 
-    public double calcularIMC(double Peso, double Altura)
+    public double calcularIMC(double peso, double altura)
     {
-    return imc = Peso/Math.pow(Altura,2);
+    return imc = peso/Math.pow(altura,2);
     }
 }
